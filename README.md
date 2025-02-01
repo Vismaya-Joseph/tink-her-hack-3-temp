@@ -1,99 +1,65 @@
-# [Project Name] 🎯
+# Life Drop 🎯
 
 
-## Basic Details
-### Team Name: [Name]
+ ## Basic Details
+ This project appears to be a donor registration system using JavaScript(frontend) and JSON(backend)
+
+
+### Team Name: [Enthusiastic Leaders]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [VISMAYA JOSEPH] - [MBITS]
+- Member 2: [TISA TIJO] - [MBITS]
+- Member 3: [VINAYATHRI GOPAN] - [MBITS]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
-
+    
 ### Project Description
-[2-3 lines about what your project does]
+We aimed at doing a project on availing blood donation for the needful people across various regions.This is very useful website and a real lifesaver.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Prevent deaths caused by blood shortage.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+Letting people know the people who are willling to donate blood and who are in need of blood.
+
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML
+- JAVASCRIPT
+- AI TOOLS
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
 
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+# Screenshots 
+https://drive.google.com/file/d/1UuQI94Ie8QdJc_eoUd1FMooQA3oJDK4x/view?usp=drive_link
+ 
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/file/d/1SFBLOF-sBA7dGfGbnb4JyWccgZ6X2LwM/view?usp=drive_link
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/file/d/1WOGD4eRHET2urIGbqezviz9Rdr_ldqCg/view?usp=drive_link
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+https://drive.google.com/file/d/10n93KrZ8wtTZE77C8DdQpi1X83ykpvg1/view?usp=drive_link
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1p1wAGaehoYVIFfuzyr6CwMH71OVBVMr4/view?usp=drive_link
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [VISMAYA JOSEPH]- FRONTEND
+- [TISA TIJO]-BACKEND
+- [VINAYATHRI GOPAN]-ERROR EDITING
+
 
 ---
 Made with ❤️ at TinkerHub
+
