@@ -39,14 +39,13 @@ For Software:
 For Software:
 
 # Screenshots 
-https://drive.google.com/file/d/1UuQI94Ie8QdJc_eoUd1FMooQA3oJDK4x/view?usp=drive_link
- 
+![image 1](https://drive.google.com/file/d/1UuQI94Ie8QdJc_eoUd1FMooQA3oJDK4x/view?usp=drive_link)
 
-https://drive.google.com/file/d/1SFBLOF-sBA7dGfGbnb4JyWccgZ6X2LwM/view?usp=drive_link
+![image 2](https://drive.google.com/file/d/1SFBLOF-sBA7dGfGbnb4JyWccgZ6X2LwM/view?usp=drive_link)
 
-https://drive.google.com/file/d/1WOGD4eRHET2urIGbqezviz9Rdr_ldqCg/view?usp=drive_link
+![image 3](https://drive.google.com/file/d/1WOGD4eRHET2urIGbqezviz9Rdr_ldqCg/view?usp=drive_link)
 
-https://drive.google.com/file/d/10n93KrZ8wtTZE77C8DdQpi1X83ykpvg1/view?usp=drive_link
+![image 4](https://drive.google.com/file/d/10n93KrZ8wtTZE77C8DdQpi1X83ykpvg1/view?usp=drive_link)
 
 
 ### Project Demo
